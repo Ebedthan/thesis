@@ -1,0 +1,22 @@
+# Outils d’analyse en interface graphique pour l’analyse de données des communautés microbiennes  {#gui-tool}
+
+## Introduction
+
+
+## Le preprocessing des données du metabarcoding
+
+
+## Operational taxonomic unit, Amplicon sequence variant ou les deux?
+
+
+## Classification des séquences
+
+
+## Implémentation de la solution
+
+
+## Perspectives
+
+
+## Discussion
+

@@ -1,0 +1,26 @@
+# Amélioration de la classification des taxons issus du metabarcoding par utilisation des profils de Markov, des profils généralisés et de l’association phage-hôte inféré par le système CRISPR-Cas/anti CRISPR  {#classif}
+
+## Introduction
+
+
+## Les profils de Markov cachés
+
+
+## Les profils généralisés
+
+
+## Le système CRISPR-Cas chez les bactéries 
+
+
+## Le système anti-CRISPR chez les phages
+
+
+## L’association phage-hôte
+
+
+## Implémentation de l’algorithme de classification: taxaSolver
+
+
+## Perspectives
+
+## Discussion

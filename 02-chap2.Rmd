@@ -1,0 +1,22 @@
+# Base de données métagénomique pour les Rhizobiales bénéfiques et non bénéfiques {#database}
+
+## Introduction
+
+
+## Collecte des données
+
+
+## Nettoyage et annotation
+
+
+## Implémentation de la base de données: Rhizoserver
+
+
+## Conclusion
+
+
+## Perspectives
+
+
+## Discussion
+
